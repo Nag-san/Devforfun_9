@@ -1,0 +1,43 @@
+body {
+  padding: 50px 350px;
+}
+img {
+  display: block;
+  margin-left: 0px;
+  margin-right: auto;
+  
+}
+h1 {
+  font-family: "arial";
+  color: white;
+}
+h2 {
+  font-family: "arial";
+  color: white;
+}
+h3 {
+  font-family: "arial";
+  color: white;
+}
+a {
+  color: white;
+}
+p {
+  line-height: 1.6;
+  color: white;
+  font-family: "arial";
+}
+code {
+  font-family: "arial";
+  color: red;
+}
+ul {
+  font-family: "arial";
+  color: white;
+  line-height: 1.6;
+}
+ol {
+  font-family: "arial";
+  color: white;
+  line-height: 1.6;
+}
